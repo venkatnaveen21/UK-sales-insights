@@ -63,14 +63,19 @@ This enabled GPT to answer **natural language queries** like:
 ## Example Natural Language text
 - Use time series models to forecast sales for the next 6 months.
 <img width="373" alt="image" src="https://github.com/user-attachments/assets/62c330f3-5069-4d02-b880-25398a9e6aa4" />
+
 - List the top 5 best-selling products.
 <img width="445" alt="image" src="https://github.com/user-attachments/assets/0b6ee5ec-c1cf-4f96-9928-1d4e92cc0568" />
+
 - Which weekday has the highest revenue?
-📅 Thursday – with £1,973,015.73 in total sales.
+
+- 📅 Thursday – with £1,973,015.73 in total sales.
 - Predict sales for the next 3 months
 <img width="332" alt="image" src="https://github.com/user-attachments/assets/151173a8-54e4-4523-b8f0-c15f70d79ab5" />
+
 - Show monthly revenue trends
 ![image](https://github.com/user-attachments/assets/a97587db-3027-40f0-9c00-2b0345a9d79c)
+
 - Dashboard:
 ![image](https://github.com/user-attachments/assets/efdbbdab-db1a-4c9c-b910-d3b29d9540a5)
 
